@@ -1,0 +1,41 @@
+.container{
+    margin-bottom: 100px;
+}
+.card{
+    border: none;
+    box-shadow: 5px 5px 10px lightgray;
+    border-radius: 10px
+}
+.card-body{
+    text-align: center;
+}
+.cards-extend{
+    color: #FFC61E;
+    font-weight: 500;
+   
+}
+.col-auto a{
+    text-decoration: none;
+}
+
+.categories-underline{
+    height: 6px;
+    width: 88px;
+    background-color: orange;
+    border-radius: 4px;
+    margin: auto;
+}
+.card-alignment{
+    text-align: center;
+}
+.carousel-indicators .active {
+    width: 50px;
+    height: 10px;  
+    background-image: linear-gradient(to right, orange 20%, yellow 200%);
+    border-radius: 13px;
+}
+.carousel-indicators li {
+    display: inline-block;
+    width: 15px;
+    height: 10px;
+}    
